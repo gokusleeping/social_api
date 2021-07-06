@@ -15,5 +15,6 @@
     "mongoose": "^5.13.2",
     "morgan": "^1.10.0",
     "nodemon": "^2.0.9"
-  }
+  },
+  "env": "MONGO_URL = mongodb+srv://user1:user1@cluster01.ssiki.mongodb.net/social?retryWrites=true&w=majority"
 }
